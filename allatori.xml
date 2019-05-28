@@ -1,0 +1,46 @@
+<config>
+    <input>
+        <dir in="bin" out="bin"/>
+    </input>
+
+    <classpath>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.tinify/tinify/1.6.4/6c351ea08cee9915573c6badd28d024a39bcc3e/tinify-1.6.4.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2/f951934aa5ae5a88d7e6dfaa6d32307d834a88be/commons-collections-3.2.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"/>
+        <jar name="C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/resources.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/rt.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jsse.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jce.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/charsets.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/jfr.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/access-bridge-64.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/cldrdata.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/dnsns.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/jaccess.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/jfxrt.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/localedata.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/nashorn.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunec.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunjce_provider.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunmscapi.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/sunpkcs11.jar"/>
+        <jar name="H:/Program Files/MyEclipse 2017 CI/binary/com.sun.java.jdk8.win32.x86_64_1.8.0.v112/jre/lib/ext/zipfs.jar"/>
+        <jar name="F:/tools/imgcompress/libs/gson-2.8.5-sources.jar"/>
+        <jar name="F:/tools/imgcompress/libs/okhttp-3.10.0-sources.jar"/>
+        <jar name="F:/tools/imgcompress/libs/okio-1.14.0-sources.jar"/>
+        <jar name="F:/tools/imgcompress/libs/tinify-1.6.4-sources.jar"/>
+    </classpath>
+
+    <keep-names>
+        <class access="protected+">
+            <field access="protected+"/>
+            <method access="protected+"/>
+        </class>
+    </keep-names>
+
+    <property name="log-file" value="allatori-log.xml"/>
+</config>
